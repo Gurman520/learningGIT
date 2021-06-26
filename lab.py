@@ -1,6 +1,6 @@
 def gr():
     s = "Helo git!"
-    c = " Git is H!"
+    c = " Git is good!"
     s = s + c
     return s
 
